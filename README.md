@@ -15,8 +15,8 @@
 
 • pkg install bs4
 
-• git clone https://github.com/IWAN-404/crack2
+• https://github.com/IWAN-404/CRACKERS
 
-• cd crack2
+• cd CRACKERS
 
-• python2 biji.pyc
+• python2 CRACKERS.pyc
