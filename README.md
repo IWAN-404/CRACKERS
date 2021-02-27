@@ -15,7 +15,7 @@
 
 • pkg install bs4
 
-• https://github.com/IWAN-404/CRACKERS
+• git clone https://github.com/IWAN-404/CRACKERS
 
 • cd CRACKERS
 
